@@ -1,0 +1,5 @@
+aiohttp
+ansible
+apache-libcloud
+appdirs
+
